@@ -1,6 +1,6 @@
 # dtschapter06-starter
 
-## Praktikum 01
+## Praktikum 01 (AplikasiKalkulatorBMI)
 Starter chapter 06 praktikum 01 memuat:
 
 a. activity_main.xml beserta komponen (no constraint)
