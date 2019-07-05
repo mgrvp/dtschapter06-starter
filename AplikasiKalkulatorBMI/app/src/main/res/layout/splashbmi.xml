@@ -3,16 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:background="@color/splashbg">
+    android:background="">
 
-
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:text="Kalkulator BMI"
-        android:textSize="30sp"
-        android:textColor="@color/colorWhite"/>
 
 </RelativeLayout>
